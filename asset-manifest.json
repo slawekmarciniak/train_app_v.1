@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/train_app_v.1/static/css/main.ff8d3169.chunk.css",
-    "main.js": "/train_app_v.1/static/js/main.4408dc39.chunk.js",
-    "main.js.map": "/train_app_v.1/static/js/main.4408dc39.chunk.js.map",
-    "runtime-main.js": "/train_app_v.1/static/js/runtime-main.fe2297b6.js",
-    "runtime-main.js.map": "/train_app_v.1/static/js/runtime-main.fe2297b6.js.map",
+    "main.js": "/train_app_v.1/static/js/main.fa8e134a.chunk.js",
+    "main.js.map": "/train_app_v.1/static/js/main.fa8e134a.chunk.js.map",
+    "runtime-main.js": "/train_app_v.1/static/js/runtime-main.ae77ef3a.js",
+    "runtime-main.js.map": "/train_app_v.1/static/js/runtime-main.ae77ef3a.js.map",
     "static/css/2.fb17aa6d.chunk.css": "/train_app_v.1/static/css/2.fb17aa6d.chunk.css",
-    "static/js/2.d6f4251e.chunk.js": "/train_app_v.1/static/js/2.d6f4251e.chunk.js",
-    "static/js/2.d6f4251e.chunk.js.map": "/train_app_v.1/static/js/2.d6f4251e.chunk.js.map",
-    "static/js/3.27903866.chunk.js": "/train_app_v.1/static/js/3.27903866.chunk.js",
-    "static/js/3.27903866.chunk.js.map": "/train_app_v.1/static/js/3.27903866.chunk.js.map",
+    "static/js/2.8da2b638.chunk.js": "/train_app_v.1/static/js/2.8da2b638.chunk.js",
+    "static/js/2.8da2b638.chunk.js.map": "/train_app_v.1/static/js/2.8da2b638.chunk.js.map",
+    "static/js/3.b57f8f92.chunk.js": "/train_app_v.1/static/js/3.b57f8f92.chunk.js",
+    "static/js/3.b57f8f92.chunk.js.map": "/train_app_v.1/static/js/3.b57f8f92.chunk.js.map",
     "index.html": "/train_app_v.1/index.html",
     "static/css/2.fb17aa6d.chunk.css.map": "/train_app_v.1/static/css/2.fb17aa6d.chunk.css.map",
     "static/css/main.ff8d3169.chunk.css.map": "/train_app_v.1/static/css/main.ff8d3169.chunk.css.map",
-    "static/js/2.d6f4251e.chunk.js.LICENSE.txt": "/train_app_v.1/static/js/2.d6f4251e.chunk.js.LICENSE.txt",
+    "static/js/2.8da2b638.chunk.js.LICENSE.txt": "/train_app_v.1/static/js/2.8da2b638.chunk.js.LICENSE.txt",
     "static/media/header1.b33b56a0.jpg": "/train_app_v.1/static/media/header1.b33b56a0.jpg",
     "static/media/header2.8d8dcc14.jpg": "/train_app_v.1/static/media/header2.8d8dcc14.jpg",
     "static/media/header3.ba67b377.jpg": "/train_app_v.1/static/media/header3.ba67b377.jpg",
@@ -22,10 +22,10 @@
     "static/media/header6.653d8563.jpg": "/train_app_v.1/static/media/header6.653d8563.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe2297b6.js",
+    "static/js/runtime-main.ae77ef3a.js",
     "static/css/2.fb17aa6d.chunk.css",
-    "static/js/2.d6f4251e.chunk.js",
+    "static/js/2.8da2b638.chunk.js",
     "static/css/main.ff8d3169.chunk.css",
-    "static/js/main.4408dc39.chunk.js"
+    "static/js/main.fa8e134a.chunk.js"
   ]
 }
