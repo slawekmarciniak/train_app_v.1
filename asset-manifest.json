@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/train_app_v.1/static/css/main.ef5c9416.chunk.css",
-    "main.js": "/train_app_v.1/static/js/main.07d44382.chunk.js",
-    "main.js.map": "/train_app_v.1/static/js/main.07d44382.chunk.js.map",
-    "runtime-main.js": "/train_app_v.1/static/js/runtime-main.ae77ef3a.js",
-    "runtime-main.js.map": "/train_app_v.1/static/js/runtime-main.ae77ef3a.js.map",
+    "main.css": "/train_app_v.1/static/css/main.69b77ae8.chunk.css",
+    "main.js": "/train_app_v.1/static/js/main.7ad4fb92.chunk.js",
+    "main.js.map": "/train_app_v.1/static/js/main.7ad4fb92.chunk.js.map",
+    "runtime-main.js": "/train_app_v.1/static/js/runtime-main.fe2297b6.js",
+    "runtime-main.js.map": "/train_app_v.1/static/js/runtime-main.fe2297b6.js.map",
     "static/css/2.fb17aa6d.chunk.css": "/train_app_v.1/static/css/2.fb17aa6d.chunk.css",
     "static/js/2.d4f554e1.chunk.js": "/train_app_v.1/static/js/2.d4f554e1.chunk.js",
     "static/js/2.d4f554e1.chunk.js.map": "/train_app_v.1/static/js/2.d4f554e1.chunk.js.map",
-    "static/js/3.b57f8f92.chunk.js": "/train_app_v.1/static/js/3.b57f8f92.chunk.js",
-    "static/js/3.b57f8f92.chunk.js.map": "/train_app_v.1/static/js/3.b57f8f92.chunk.js.map",
+    "static/js/3.27903866.chunk.js": "/train_app_v.1/static/js/3.27903866.chunk.js",
+    "static/js/3.27903866.chunk.js.map": "/train_app_v.1/static/js/3.27903866.chunk.js.map",
     "index.html": "/train_app_v.1/index.html",
     "static/css/2.fb17aa6d.chunk.css.map": "/train_app_v.1/static/css/2.fb17aa6d.chunk.css.map",
-    "static/css/main.ef5c9416.chunk.css.map": "/train_app_v.1/static/css/main.ef5c9416.chunk.css.map",
+    "static/css/main.69b77ae8.chunk.css.map": "/train_app_v.1/static/css/main.69b77ae8.chunk.css.map",
     "static/js/2.d4f554e1.chunk.js.LICENSE.txt": "/train_app_v.1/static/js/2.d4f554e1.chunk.js.LICENSE.txt",
     "static/media/header1.b33b56a0.jpg": "/train_app_v.1/static/media/header1.b33b56a0.jpg",
     "static/media/header2.8d8dcc14.jpg": "/train_app_v.1/static/media/header2.8d8dcc14.jpg",
@@ -22,10 +22,10 @@
     "static/media/header6.653d8563.jpg": "/train_app_v.1/static/media/header6.653d8563.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae77ef3a.js",
+    "static/js/runtime-main.fe2297b6.js",
     "static/css/2.fb17aa6d.chunk.css",
     "static/js/2.d4f554e1.chunk.js",
-    "static/css/main.ef5c9416.chunk.css",
-    "static/js/main.07d44382.chunk.js"
+    "static/css/main.69b77ae8.chunk.css",
+    "static/js/main.7ad4fb92.chunk.js"
   ]
 }
